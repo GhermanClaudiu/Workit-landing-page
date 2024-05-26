@@ -1,0 +1,19 @@
+:rout {
+    /* ---------Colors------ */
+  --dark-purple: #24053e;
+  --davys-grey: #584d62;
+  --eucaplyptus: #44ffa1;
+  --ghost-white: #fcf8ff;
+  --white: #fff;
+ /*---------- Fonts--------- */
+  --font-family: "Manrope", sans-serif;
+  --second-family: "Fraunces 144pt", sans-serif;
+}
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
